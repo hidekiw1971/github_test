@@ -7,4 +7,4 @@
 - git test 2022/4/15
 - git test 2022/4/15 2
 - git test 2022/4/15 3
-- git test 2022/4/15 4 remote -> local ck-ok ck-ok2
+- git test 2022/4/15 4 remote -> local ck-ok ck-ok2 ck-ok3
