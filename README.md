@@ -7,3 +7,4 @@
 - git test 2022/4/15
 - git test 2022/4/15 2
 - git test 2022/4/15 3
+- git test 2022/4/15 4 remote -> local
